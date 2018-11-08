@@ -1,0 +1,29 @@
+{
+  "name": "search-terms",
+  "version": "0.1.0",
+  "description": "Get positive and negative search terms from a search query",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jasmine ./spec/tests.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UziTech/search-terms.git"
+  },
+  "keywords": [
+    "search",
+    "terms",
+    "query"
+  ],
+  "author": "Tony Brix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UziTech/search-terms/issues"
+  },
+  "homepage": "https://github.com/UziTech/search-terms#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "jasmine": "^3.3.0"
+  }
+}
