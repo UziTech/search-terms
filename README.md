@@ -3,31 +3,31 @@
 # search-terms
 
 Get search terms separated by spaces from a search query.
-Negative terms have a dash(-) in front. Terms can have space or dash if quoted.
+Negative terms have a dash(-) in front.
+Terms can have spaces or a dash at the beginning if quoted.
 
 ## Example
 
 ```js
 const searchTerms = require("search-terms");
 
-//  positive terms --------⏷----------⏷------------------⏷-----------------------⏷
-console.log(searchTerms("this -is 'a string' -'-with' '-positive' -'and negative' terms"));
-//  negative terms -----------⏶----------------⏶------------------------⏶
+//  positive terms ---------⏷--------⏷------------------⏷
+console.log(searchTerms("this-is 'a string' -'-with' '-positive' -'and negative' -terms"));
+//  negative terms -----------------------------⏶-----------------------⏶---------⏶
 
 /*
  * Result:
  *
  * {
  *   "positive":  [
- *     "this",
+ *     "this-is",
  *     "a string",
  *     "-positive",
- *     "terms"
  *   ],
  *   "negative":  [
- *     "is",
  *     "-with",
- *     "and negative"
+ *     "and negative",
+ *     "terms"
  *   ]
  * }
  */
