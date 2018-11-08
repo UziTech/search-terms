@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/UziTech/search-terms.svg?branch=master)](https://travis-ci.com/UziTech/search-terms)
+
 # search-terms
 
 Get search terms separated by spaces from a search query.
