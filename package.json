@@ -1,6 +1,6 @@
 {
   "name": "search-terms",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get positive and negative search terms from a search query",
   "main": "src/index.js",
   "scripts": {
