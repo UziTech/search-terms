@@ -24,6 +24,6 @@
   "homepage": "https://github.com/UziTech/search-terms#readme",
   "devDependencies": {
     "eslint": "^5.8.0",
-    "jasmine": "^3.3.0"
+    "jasmine": "^3.3.1"
   }
 }
