@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/UziTech/search-terms#readme",
   "devDependencies": {
-    "eslint": "^5.15.1",
+    "eslint": "^5.15.2",
     "jasmine": "^3.3.1"
   }
 }
