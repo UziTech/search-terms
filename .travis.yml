@@ -9,9 +9,12 @@ jobs:
 
     - stage: lint ✨
       script: npm run lint
+      node_js: lts/*
+
 
     - stage: release 🎉
       script: npm run semantic-release
+      node_js: lts/*
 
 cache:
   directories:
