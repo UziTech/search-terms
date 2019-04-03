@@ -1,5 +1,7 @@
 language: node_js
 
+install: npm install
+
 jobs:
   include:
     - stage: spec tests 👩🏽‍💻
@@ -13,6 +15,7 @@ jobs:
 
 
     - stage: release 🎉
+      if: branch = master && type != pull_request
       script: npm run semantic-release
       node_js: lts/*
 
