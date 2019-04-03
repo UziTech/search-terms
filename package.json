@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jasmine ./spec/tests.js",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   "homepage": "https://github.com/UziTech/search-terms#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
-    "jasmine": "^3.3.1"
+    "jasmine": "^3.3.1",
+    "semantic-release": "^15.13.8"
   }
 }
