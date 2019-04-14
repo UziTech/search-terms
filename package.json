@@ -26,12 +26,12 @@
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.2",
     "@semantic-release/commit-analyzer": "^6.1.0",
-    "@semantic-release/git": "^7.0.9",
+    "@semantic-release/git": "^7.0.10",
     "@semantic-release/github": "^5.3.1",
-    "@semantic-release/npm": "^5.1.6",
+    "@semantic-release/npm": "^5.1.7",
     "@semantic-release/release-notes-generator": "^7.1.6",
     "eslint": "^5.16.0",
     "jasmine": "^3.4.0",
-    "semantic-release": "^15.13.8"
+    "semantic-release": "^15.13.9"
   }
 }
