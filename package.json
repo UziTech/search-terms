@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jasmine ./spec/tests.js",
-    "lint": "eslint .",
-    "semantic-release": "semantic-release"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",

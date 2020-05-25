@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/UziTech/search-terms.svg?branch=master)](https://travis-ci.com/UziTech/search-terms)
+[![Actions Status](https://github.com/UziTech/search-terms/workflows/CI/badge.svg)](https://github.com/UziTech/search-terms/actions)
 
 # search-terms
 
