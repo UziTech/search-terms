@@ -31,6 +31,6 @@
     "@semantic-release/release-notes-generator": "^10.0.3",
     "eslint": "^8.17.0",
     "jasmine": "^4.1.0",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.3"
   }
 }
