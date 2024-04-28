@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/UziTech/search-terms/compare/v1.0.1...v1.0.2) (2024-04-28)
+
+
+### Bug Fixes
+
+* move deps to devdeps ([8647fa6](https://github.com/UziTech/search-terms/commit/8647fa68612610c707e780287ee979f06aeb8696))
+
 ## [1.0.1](https://github.com/UziTech/search-terms/compare/v1.0.0...v1.0.1) (2024-04-28)
 
 
