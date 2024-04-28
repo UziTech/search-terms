@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/UziTech/search-terms#readme",
   "devDependencies": {
+    "@eslint/js": "^9.1.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^12.0.0",
     "@semantic-release/git": "^10.0.1",
@@ -30,11 +31,8 @@
     "@semantic-release/npm": "^12.0.0",
     "@semantic-release/release-notes-generator": "^13.0.0",
     "eslint": "^9.1.1",
+    "globals": "^15.1.0",
     "jasmine": "^5.1.0",
     "semantic-release": "^23.0.8"
-  },
-  "dependencies": {
-    "@eslint/js": "^9.0.0",
-    "globals": "^15.1.0"
   }
 }
