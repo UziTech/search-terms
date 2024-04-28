@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/UziTech/search-terms/compare/v1.0.0...v1.0.1) (2024-04-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency globals to ^15.1.0 ([761ba42](https://github.com/UziTech/search-terms/commit/761ba4249500b75b2389ab8919485107fd7fc108))
+
 # [1.0.0](https://github.com/UziTech/search-terms/compare/v0.2.0...v1.0.0) (2020-05-25)
 
 
