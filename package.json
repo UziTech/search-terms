@@ -33,6 +33,6 @@
     "eslint": "^9.2.0",
     "globals": "^15.2.0",
     "jasmine": "^5.1.0",
-    "semantic-release": "^23.0.8"
+    "semantic-release": "^23.1.1"
   }
 }
