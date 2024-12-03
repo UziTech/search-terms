@@ -32,7 +32,7 @@
     "@semantic-release/release-notes-generator": "^14.0.1",
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
-    "jasmine": "^5.4.0",
+    "jasmine": "^5.5.0",
     "semantic-release": "^24.2.0"
   }
 }
